@@ -63,6 +63,6 @@ Integrate predictive analytics to forecast customer behavior.
 Enhance geographic insights with external datasets.
 Automate SQL queries for ongoing reporting.
 
-LinkedIn: [Your Profile](https://www.linkedin.com/feed/)
-GitHub: [Your Repository](https://github.com/Lobirexm/lordiesql)
+[LinkedIn](https://www.linkedin.com/feed/)
+[GitHub](https://github.com/Lobirexm/lordiesql)
 Email: lobire@yahoo.com

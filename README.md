@@ -57,3 +57,12 @@ Average Rental Duration: Calculated the mean rental period to optimize future re
 Developed expertise in writing advanced SQL queries, including CTEs and subqueries.
 Improved data cleaning and profiling skills.
 Gained experience in visual storytelling for technical and business audiences.
+
+## Future Improvements
+Integrate predictive analytics to forecast customer behavior.
+Enhance geographic insights with external datasets.
+Automate SQL queries for ongoing reporting.
+
+LinkedIn: [Your Profile](https://www.linkedin.com/feed/)
+GitHub: [Your Repository](https://github.com/Lobirexm/lordiesql)
+Email: lobire@yahoo.com

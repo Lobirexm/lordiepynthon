@@ -41,3 +41,19 @@ Highlighted findings with charts, graphs, and summary tables.
 Presentation:
 
 Compiled insights into a professional presentation for technical and non-technical stakeholders.
+
+## Key Deliverables
+Entity-Relationship Diagram (ERD): A comprehensive visual of the database schema.
+SQL Queries: Scripts to extract key business insights.
+Visualizations: Charts and graphs showcasing rental trends, geographic insights, and revenue breakdowns.
+Data Dictionary: Detailed documentation of database fields and relationships.
+
+## Sample Insights
+Top Revenue-Generating Movies: Identified the films contributing the most to revenue.
+Global Customer Distribution: Mapped customer locations, revealing regions with high-value customers.
+Average Rental Duration: Calculated the mean rental period to optimize future rental policies.
+
+## Learning Highlights
+Developed expertise in writing advanced SQL queries, including CTEs and subqueries.
+Improved data cleaning and profiling skills.
+Gained experience in visual storytelling for technical and business audiences.

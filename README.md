@@ -1,68 +1,39 @@
-# Rockbuster Stealth Data Analysis
-## Project Overview
-Rockbuster Stealth LLC, a global movie rental company, is planning to launch an online video rental service to compete with streaming giants like Netflix and Amazon Prime. As part of the Business Intelligence (BI) team, I conducted a comprehensive data analysis to inform the company's launch strategy.
+# Instacart Grocery Basket Analysis
 
-This project showcases my ability to extract insights using SQL, visualize data for business decision-making, and create a professional deliverable to share with stakeholders.
+## Overview
+This project analyzes Instacart's customer purchasing behaviors to derive insights and suggest strategies for targeted marketing and improved segmentation. Using Python and data analysis techniques, the project answers key stakeholder questions regarding sales patterns, product popularity, customer loyalty, and demographic differences.
 
-## Key Objectives
-The Rockbuster Stealth management team posed critical business questions to guide their 2020 strategy:
+## Objective
+To perform exploratory data analysis (EDA) on Instacart's sales data, uncover patterns, and provide actionable recommendations for marketing and sales strategies, ensuring Instacart effectively targets customer segments.
 
-Which movies contributed the most/least to revenue gain?
-What was the average rental duration for all videos?
-Which countries are Rockbuster's customers based in?
-Where are customers with high lifetime value located?
-Do sales figures vary by geographic region?
+## Key Questions Addressed
+What are the busiest days and times for orders?
+When do customers spend the most money?
+How can products be grouped into simpler price ranges for targeted efforts?
+Which product categories and departments are most popular?
+How do customer profiles and demographics (e.g., loyalty, region, age, family status) influence purchasing behavior?
 
-## Technologies Used
-Database Management: PostgreSQL
-Data Analysis: SQL
-Data Visualization: Tableau, Excel
-Project Tools: ERD diagrams, data dictionaries
+## Features
+Sales Analysis: Identifies peak ordering times and spending patterns.
+Customer Segmentation: Profiles customers based on demographics and loyalty.
+Product Popularity: Analyzes order frequencies across departments.
+Targeted Marketing Recommendations: Provides actionable insights for improving campaigns.
+Data Visualization: Includes bar charts, scatterplots, line charts, and histograms for insights.
 
 ## Project Workflow
-Database Setup:
+Data Import & Cleaning:
+Downloaded and prepared datasets, ensuring consistency and removing duplicates/missing values.
 
-Loaded Rockbuster's dataset (~3MB) into PostgreSQL.
-Analyzed relationships between tables and drafted an Entity-Relationship Diagram (ERD).
-Exploratory Data Analysis:
+## Exploratory Data Analysis:
+Used pandas, NumPy, and descriptive statistics to uncover trends.
 
-Investigated and profiled data structure, including keys, indexes, and relationships.
-Identified and cleaned dirty data.
-SQL Queries:
+## Data Transformation:
+Created derived variables and grouped data to facilitate segmentation.
 
-Wrote SQL commands to answer business questions, covering:
-Filtering and grouping data.
-Performing joins and subqueries.
-Summarizing data using CASE statements and Common Table Expressions (CTEs).
-Data Visualization:
-
-Transformed SQL results into actionable insights using Tableau.
-Highlighted findings with charts, graphs, and summary tables.
-Presentation:
-
-Compiled insights into a professional presentation for technical and non-technical stakeholders.
-
-## Key Deliverables
-Entity-Relationship Diagram (ERD): A comprehensive visual of the database schema.
-SQL Queries: Scripts to extract key business insights.
-Visualizations: Charts and graphs showcasing rental trends, geographic insights, and revenue breakdowns.
-Data Dictionary: Detailed documentation of database fields and relationships.
-
-## Sample Insights
-Top Revenue-Generating Movies: Identified the films contributing the most to revenue.
-Global Customer Distribution: Mapped customer locations, revealing regions with high-value customers.
-Average Rental Duration: Calculated the mean rental period to optimize future rental policies.
-
-## Learning Highlights
-Developed expertise in writing advanced SQL queries, including CTEs and subqueries.
-Improved data cleaning and profiling skills.
-Gained experience in visual storytelling for technical and business audiences.
-
-## Future Improvements
-Integrate predictive analytics to forecast customer behavior.
-Enhance geographic insights with external datasets.
-Automate SQL queries for ongoing reporting.
-
-[LinkedIn](https://www.linkedin.com/feed/)
-[GitHub](https://github.com/Lobirexm/lordiesql)
-Email: lobire@yahoo.com
+## Visualization:
+Developed visualizations using matplotlib and seaborn to highlight key insights.
+Reporting:
+Documented methodology, findings, and recommendations in a stakeholder-friendly report.
+Tools & Technologies
+Languages: Python (Jupyter Notebooks)
+Libraries: pandas, NumPy, matplotlib, seaborn, scipy, os
